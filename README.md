@@ -4,3 +4,7 @@ problem link:https://leetcode.com/problems/buy-two-chocolates/submissions/168209
 Approach: Greedy Algorithm
 status: solved
 
+Problem Name:Maximum length of pair chain
+problem link:https://leetcode.com/problems/maximum-length-of-pair-chain/description/
+Approach: Greedy Approach after sorting
+status : solved
